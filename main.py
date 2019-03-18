@@ -2,7 +2,7 @@ from Graphics import *
 from matrix import *
 from display import *
 
-homeTest=True
+homeTest=False
 
 def parse(filename,edges,transform,img,color):
     f=open(filename,"r")
